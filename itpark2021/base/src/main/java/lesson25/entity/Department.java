@@ -1,5 +1,6 @@
 package lesson25.entity;
 
+import lesson25.entity.Employee;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
